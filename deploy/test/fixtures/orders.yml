@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: Dave Thomas
+  address: MyText
+  email: dave@thomas.com
+  pay_type: Check
+
+two:
+  name: Nile River
+  address: Egypt
+  email: Nile@river.com
+  pay_type: Credit Card
